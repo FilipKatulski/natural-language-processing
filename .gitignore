@@ -1,3 +1,4 @@
 env/
 ustawy/
+*.ipynb_checkpoints/
 temp-notes
