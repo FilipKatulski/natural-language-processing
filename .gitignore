@@ -1,4 +1,6 @@
 env/
 ustawy/
-*.ipynb_checkpoints/
+.ipynb_checkpoints.ipynb 
 temp-notes
+sgjp*
+*.pkl
