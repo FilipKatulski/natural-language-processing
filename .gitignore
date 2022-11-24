@@ -1,5 +1,8 @@
 env/
 ustawy/
+ustawy.*
+Wynik/
+Wynik.*
 .ipynb_checkpoints.ipynb 
 temp-notes
 sgjp*
