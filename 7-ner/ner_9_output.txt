@@ -1,0 +1,109 @@
+
+
+NAM_PRO:
+dzieje_(apostolskie) . u . [1097]
+dziennik . u . [438]
+dziennik . urz [80]
+ordynacja podatkowy [78]
+kodeks karny [68]
+monitor polska [62]
+sprawa wewnętrzny [51]
+kodeks postępowanie cywilny [41]
+kodeks postępowanie administracyjny [40]
+kodeks postępowanie karny [36]
+
+
+NAM_LOC:
+rzeczpospolita polski [815]
+rzeczpospolita polska [95]
+polska [72]
+warszawa [71]
+nawóz [28]
+konfederacja szwajcarski [14]
+rejestr [8]
+londyn [7]
+mazowiecki [7]
+rad [6]
+
+
+NAM_ORG:
+skarb państwo [410]
+minister sprawiedliwość [322]
+unia europejski [297]
+minister obrona narodowy [287]
+rada minister [279]
+państwowy komisja wyborczy [268]
+prezes rad minister [264]
+państwowy straż pożarny [259]
+minister finanse [234]
+prezes urząd [201]
+
+
+NAM_FAC:
+inspektor nadzór wewnętrzny [50]
+komendant główny [16]
+straż graniczny [13]
+mangan [8]
+obrona narodowy [6]
+krajowy rejestr karny [5]
+zatoka gdańska [4]
+zasłużony dawca przeszczep [4]
+molibden [4]
+mn [3]
+
+
+NAM_LIV:
+kasa chora [109]
+pan [40]
+straż graniczny [36]
+krajowy depozyt [25]
+siła zbrojny [24]
+art [18]
+główny inspektor [16]
+gospodarka żywnościowy [16]
+najwyższy [13]
+główny lekarz weterynaria [11]
+
+
+NAM_EVE:
+euro [5]
+maksymalny limit pozostałość [4]
+przejściowy plan krajowy [2]
+monitor sądowy [2]
+generalny konserwator zabytek [1]
+ochrona roślina [1]
+program kontrola [1]
+inspektor nadzór wewnętrzny [1]
+ii wojna światowy [1]
+wojna poległy [1]
+
+
+NAM_ADJ:
+polski [204]
+wojewódzki [20]
+europejski [15]
+mazowiecki [7]
+internetowy [5]
+warszawski [3]
+macierzyński [3]
+afrykański [2]
+lubiński [2]
+wrocławski [2]
+
+
+NAM_OTH:
+złoty [334]
+euro [118]
+pesel [14]
+bat [12]
+nowy_polski_złoty [10]
+minister edukacja narodowy [8]
+nip [7]
+ecu [7]
+internet [5]
+viii [5]
+
+
+NAM_NUM:
+1 [13]
+112 [1]
